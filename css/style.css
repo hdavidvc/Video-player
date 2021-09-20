@@ -1,4 +1,4 @@
-@import url("./buttons.css");
+@import url("buttons.css");
 body {
     background: url("../assets/images/Ellipse2.png") left top no-repeat, url("../assets/images/Ellipse1.png") right bottom no-repeat;
     background-color: #43DDE6;
